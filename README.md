@@ -1,2 +1,2 @@
 # Images In ReadMes
-![](Technologies-1.png)
+![](Technologies-2.png)
